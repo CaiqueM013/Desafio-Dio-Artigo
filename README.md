@@ -3,7 +3,7 @@
 
 Projeto com o objetivo de gerar um Artigos Técnico com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href= "https://github.com/CaiqueM013/Desafio-Dio-Ebook/blob/main/Output/Ebook.pdf" > Clique aqui para ler</a>
+<a href= "https://dio.me/articles/domine-javascript-explorando-funcoes-e-seus-usos" > Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas
 
